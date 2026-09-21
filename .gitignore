@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+static/uploads/*
+!static/uploads/.gitkeep
+*.h5
+*.pkl
+.env
